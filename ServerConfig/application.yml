@@ -1,7 +1,5 @@
 
 spring:
-  encrypt:
-    key: secreto
   security:
     user: 
     password: virtual
