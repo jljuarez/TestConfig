@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: teacher
+server:
+  port: 8091
