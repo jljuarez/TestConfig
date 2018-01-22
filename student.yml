@@ -3,3 +3,4 @@ spring
     name: student
 server:
   port: 8090
+message: Este es el mensaje
