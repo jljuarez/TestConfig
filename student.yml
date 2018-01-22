@@ -1,3 +1,16 @@
+# Spring properties
+spring:
+  application:
+     name: student # El servicio se registra con este nombre
+
+# Acceso a Discovery Server 
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:1111/eureka/
+
+# Puerto del servicio
 server:
-  port: 9999
+  port: 2222 
+
 message: Este es el mensaje
